@@ -9,12 +9,11 @@ import org.springframework.stereotype.Component;
 import com.cydeo.repository.EmployeeRepository;
 import com.cydeo.repository.HoursRepository;
 @Component
-
 public class SalaryService {
     EmployeeRepository employeeRepository;
     HoursRepository hoursRepository;
 
-    public SalaryService(EmployeeRepository employeeRepository,  HoursRepository hoursRepository) {
+    public SalaryService(EmployeeRepository employeeRepository, @Qualifier("OTH") HoursRepository hoursRepository) {
         this.employeeRepository = employeeRepository;
         this.hoursRepository = hoursRepository;
     }
