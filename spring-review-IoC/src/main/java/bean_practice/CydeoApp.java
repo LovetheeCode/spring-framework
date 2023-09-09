@@ -14,6 +14,9 @@ public class CydeoApp {
         PartTimeEmployee partTimeEmployee = container.getBean(PartTimeEmployee.class);
         partTimeEmployee.createAccount();
 
+        String str1 = container.getBean(String.class);
+        System.out.println(str1);
+
 
     }
 }
