@@ -9,6 +9,7 @@ import org.springframework.stereotype.Component;
 import com.cydeo.repository.EmployeeRepository;
 import com.cydeo.repository.HoursRepository;
 @Component
+
 public class SalaryService {
     EmployeeRepository employeeRepository;
     HoursRepository hoursRepository;

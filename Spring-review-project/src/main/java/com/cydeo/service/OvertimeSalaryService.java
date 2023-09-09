@@ -11,7 +11,7 @@ public class OvertimeSalaryService {
     EmployeeRepository employeeRepository;
     HoursRepository hoursRepository;
 
-    public OvertimeSalaryService(EmployeeRepository employeeRepository,  HoursRepository hoursRepository) {
+    public OvertimeSalaryService(EmployeeRepository employeeRepository, @Qualifier("OTH") HoursRepository hoursRepository) {
         this.hoursRepository = hoursRepository;
         this.employeeRepository = employeeRepository;
     }
