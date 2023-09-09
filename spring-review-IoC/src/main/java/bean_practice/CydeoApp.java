@@ -12,7 +12,7 @@ public class CydeoApp {
         FullTimeEmployee fullTimeEmployee = container.getBean(FullTimeEmployee.class);
         fullTimeEmployee.createAccount();
         PartTimeEmployee partTimeEmployee = container.getBean(PartTimeEmployee.class);
-        partTimeEmployee.createAccount();1
+        partTimeEmployee.createAccount();
 
 
     }
