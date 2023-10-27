@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/Spring-02-Core-Wiring/target/classes" />
+    <output-test url="file://$MODULE_DIR$/Spring-02-Core-Wiring/target/test-classes" />
+    <content url="file://$MODULE_DIR$/Spring-02-Core-Wiring">
+      <sourceFolder url="file://$MODULE_DIR$/Spring-02-Core-Wiring/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Spring-02-Core-Wiring/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Spring-02-Core-Wiring/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/Spring-02-Core-Wiring/target" />
+    </content>
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.15" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.15" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.15" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:5.3.15" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.15" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.15" level="project" />
+    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.24" level="project" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="75141bb2-f433-4f00-87a9-b892b7843a97" />
+  </component>
+</module>

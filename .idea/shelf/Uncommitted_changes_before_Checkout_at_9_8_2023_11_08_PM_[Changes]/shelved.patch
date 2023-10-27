@@ -1,0 +1,14 @@
+Index: Spring-06-SpringBoot-Demo/src/main/java/com/cydeo/CydeoApplication.java
+===================================================================
+diff --git a/Spring-06-SpringBoot-Demo/src/main/java/com/cydeo/CydeoApplication.java b/Spring-06-SpringBoot-Demo/src/main/java/com/cydeo/CydeoApplication.java
+--- a/Spring-06-SpringBoot-Demo/src/main/java/com/cydeo/CydeoApplication.java	
++++ b/Spring-06-SpringBoot-Demo/src/main/java/com/cydeo/CydeoApplication.java	
+@@ -6,7 +6,7 @@
+ import org.springframework.boot.autoconfigure.SpringBootApplication;
+ import org.springframework.context.ApplicationContext;
+ 
+-@SpringBootApplication
++@SpringBootApplication // <--- very important annotation
+ public class CydeoApplication {
+ 
+     public static void main(String[] args) {

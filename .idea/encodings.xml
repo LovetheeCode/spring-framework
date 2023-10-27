@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Bank-stimulation-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-05-SpringBoot-Demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-06-SpringBoot-Demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-07-Spring-MVC-Controller-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-08-Spring-MVC-Model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-review-project/Bank-stimulation-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-review-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-review-project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-review-IoC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-review-IoC/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
