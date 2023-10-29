@@ -5,292 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6173fadd-3522-460a-9292-170966d50852" name="Changes" comment="ORM Part 1">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_8_2023_11_08_PM_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_8_2023_11_08_PM_[Changes]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_8_2023_11_08_PM__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d5a854ef0a060c0c05cd7b30724ca4e3f4abb81" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/1263ccd7de24f55a316d40799a2787e006b63056" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/1697995590d20f2203e17f81afa43a948f8f5a7a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c0eff9e54d6a28d3b844a741000d93129a4ab00" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26493bcf425cf6dde41c4c11a78193f4a6061a53" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/2738dd55ecbd365a7299a0b667c2e78226a2c096" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/277158bdd80a91fff513b7a47d5a4a20db2f407c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2aa4c6c3e0765043f5ae0bebecdc6839f87e3a34" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d6ecdfd15ebe4e4d77eab99edcbf2c56a11fd57" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e953680f183ab22f9e84938b64f36989a84dd15" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/3540b9a80e7e6ac42f0e864d2a0adc8dcd2bb686" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/49f399cb965de4430a8dca64426a202b356dd594" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b0dbf23ddb94108901ec1b50e7e71e1365812f5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f8400f8b4464548d0a2c7d4e4db8c1339665cd7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/6389a23889d012a5b237dce010ba4d6435c0f525" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/63faf0b464d4e13c265e8dc1ab892b37df96a9fb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64b02debbc77fbc179dfdf3c89f1445b96eac40e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65208c34e2135ccefec030e7199db07ec2c4010b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d288296fad9675d5ffe024272976cd1b042d1a7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/7598bcb0822ddd01ba7a55c2a349a172c60c8a84" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/777287e0c08cc43f52a4762e29e21cadebbfd503" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77de64cd83571ccd384be5510270961198a85d70" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79e564f814edb0e2f4fbd71469ff524ae5793c22" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7bd9d329784aea9eab5cdf1e4b5dbe5cb0a78c26" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e322e75b4f815042f1e9e38521cf3ed90cf8ba3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/817bd7e4231da2ac60a603f186bdfa018a7a0c4c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e7bc3a75e3178d4de3921330dfb5629e797a583" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8f59fefa000d733d915ed4ab3b92590d8664b655" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/99c425ff94e683002213debdbfaba74439bed0a8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9d00315a78888327055905e5331c26fbc580fcac" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9ef4b49a3f1b714759538e682cbf672fdfa9a3fd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1cc3957ae8e6ebdd7f233c49008f0ce3c57c05c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a24cfd0065497a8320cbb1b6d2edf14f02546293" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a26dee47668cc2a678a38b1d318876e33faebb62" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6c8605edfc520f2bc0abac56263095e41ce7d46" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1776c0a9fe4c44beabd9f013fdbd1972b3c601a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b4f8238fa33b84ae5c55136e73a6c266c36b379d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c2ebd8a61ec9b6678d15a55ada9aa472712a9232" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc56c532828d2b6b1986e1541ac777bc9932a6be" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd9021928f4e97a885c6be4eeec3f6bc97f93fa3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/cec1c80bb073bdfbf9c8e5c342264cbd211f9758" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1b01ec01bb3cf12a75f54bc8e18929f59309a71" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da045ae60dc10dfd5beec1dfc37c52d9bf9b1eda" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/dbfb91a99aafd31d8e98a3bc612f2ca5ad869047" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e76a78a5963722357f81e4dcaf659be1c3eb6e1c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2f53350dcdebc959ac141a85b53ea0cc2184f5b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6d85f406b339eb118cf2b2ba388e93dc6e3a752" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd8a581889ed07df8df52bcdf427c3eccb8ced72" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/d/0d5a854ef0a060c0c05cd7b30724ca4e3f4abb81" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/2/1263ccd7de24f55a316d40799a2787e006b63056" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/6/1697995590d20f2203e17f81afa43a948f8f5a7a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/c/1c0eff9e54d6a28d3b844a741000d93129a4ab00" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/6/26493bcf425cf6dde41c4c11a78193f4a6061a53" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/7/2738dd55ecbd365a7299a0b667c2e78226a2c096" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/7/277158bdd80a91fff513b7a47d5a4a20db2f407c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/a/2aa4c6c3e0765043f5ae0bebecdc6839f87e3a34" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/d/2d6ecdfd15ebe4e4d77eab99edcbf2c56a11fd57" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/e/2e953680f183ab22f9e84938b64f36989a84dd15" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/5/3540b9a80e7e6ac42f0e864d2a0adc8dcd2bb686" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/9/49f399cb965de4430a8dca64426a202b356dd594" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/b/4b0dbf23ddb94108901ec1b50e7e71e1365812f5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/f/5f8400f8b4464548d0a2c7d4e4db8c1339665cd7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/3/6389a23889d012a5b237dce010ba4d6435c0f525" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/3/63faf0b464d4e13c265e8dc1ab892b37df96a9fb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/4/64b02debbc77fbc179dfdf3c89f1445b96eac40e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/5/65208c34e2135ccefec030e7199db07ec2c4010b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/d/6d288296fad9675d5ffe024272976cd1b042d1a7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/5/7598bcb0822ddd01ba7a55c2a349a172c60c8a84" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/7/777287e0c08cc43f52a4762e29e21cadebbfd503" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/7/77de64cd83571ccd384be5510270961198a85d70" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/9/79e564f814edb0e2f4fbd71469ff524ae5793c22" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/b/7bd9d329784aea9eab5cdf1e4b5dbe5cb0a78c26" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/e/7e322e75b4f815042f1e9e38521cf3ed90cf8ba3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/1/817bd7e4231da2ac60a603f186bdfa018a7a0c4c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8e7bc3a75e3178d4de3921330dfb5629e797a583" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/f/8f59fefa000d733d915ed4ab3b92590d8664b655" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/9/99c425ff94e683002213debdbfaba74439bed0a8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/d/9d00315a78888327055905e5331c26fbc580fcac" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/e/9ef4b49a3f1b714759538e682cbf672fdfa9a3fd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/1/a1cc3957ae8e6ebdd7f233c49008f0ce3c57c05c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/2/a24cfd0065497a8320cbb1b6d2edf14f02546293" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/2/a26dee47668cc2a678a38b1d318876e33faebb62" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/6/a6c8605edfc520f2bc0abac56263095e41ce7d46" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/1/b1776c0a9fe4c44beabd9f013fdbd1972b3c601a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/4/b4f8238fa33b84ae5c55136e73a6c266c36b379d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/2/c2ebd8a61ec9b6678d15a55ada9aa472712a9232" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/c/cc56c532828d2b6b1986e1541ac777bc9932a6be" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/d/cd9021928f4e97a885c6be4eeec3f6bc97f93fa3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/e/cec1c80bb073bdfbf9c8e5c342264cbd211f9758" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/1/d1b01ec01bb3cf12a75f54bc8e18929f59309a71" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/a/da045ae60dc10dfd5beec1dfc37c52d9bf9b1eda" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/b/dbfb91a99aafd31d8e98a3bc612f2ca5ad869047" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/7/e76a78a5963722357f81e4dcaf659be1c3eb6e1c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/2/f2f53350dcdebc959ac141a85b53ea0cc2184f5b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/6/f6d85f406b339eb118cf2b2ba388e93dc6e3a752" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/d/fd8a581889ed07df8df52bcdf427c3eccb8ced72" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/Spring-01-Core-IoC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/target/classes/com/cydeo/bean_annotation/ConfigAny.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/target/classes/com/cydeo/bean_annotation/ConfigApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/target/classes/com/cydeo/bean_annotation/CydeoApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/target/classes/com/cydeo/bean_annotation/FullTimeMentor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/target/classes/com/cydeo/bean_annotation/PartTimeMentor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/target/classes/com/cydeo/stereotype_annotation/Agile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/target/classes/com/cydeo/stereotype_annotation/ConfigCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/target/classes/com/cydeo/stereotype_annotation/CydeoApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/target/classes/com/cydeo/stereotype_annotation/Java.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/target/classes/com/cydeo/stereotype_annotation/Selenium.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/target/classes/org/example/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/Spring-02-Core-Wiring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/target/classes/com/cydeo/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/target/classes/com/cydeo/ConfigCar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/target/classes/com/cydeo/DealerApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/target/classes/com/cydeo/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-03-Core-DI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-03-Core-DI/Spring-03-Core-DI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-03-Core-DI/target/classes/com/cydeo/ConfigApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-03-Core-DI/target/classes/com/cydeo/CydeoApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-03-Core-DI/target/classes/com/cydeo/Java.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-03-Core-DI/target/classes/com/cydeo/OfficeHours.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-03-Core-DI/target/classes/com/cydeo/Selenium.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-04-Abstraction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-04-Abstraction/Spring-04-Abstraction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-04-Abstraction/target/classes/com/cydeo/CydeoApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-04-Abstraction/target/classes/com/cydeo/config/ProjectConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-04-Abstraction/target/classes/com/cydeo/model/Comment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-04-Abstraction/target/classes/com/cydeo/proxy/CommentNotificationProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-04-Abstraction/target/classes/com/cydeo/proxy/CommentPushNotificationProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-04-Abstraction/target/classes/com/cydeo/proxy/EmailCommentNotificationProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-04-Abstraction/target/classes/com/cydeo/repository/CommentRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-04-Abstraction/target/classes/com/cydeo/repository/DBCommentRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-04-Abstraction/target/classes/com/cydeo/service/CommentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-05-Core-BeanScope.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-05-Core-BeanScope/Spring-05-Core-BeanScope.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-05-Core-BeanScope/target/classes/com/cydeo/CydeoApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-05-Core-BeanScope/target/classes/com/cydeo/config/ProjectConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-05-Core-BeanScope/target/classes/com/cydeo/model/Comment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-05-Core-BeanScope/target/classes/com/cydeo/proxy/CommentNotificationProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-05-Core-BeanScope/target/classes/com/cydeo/proxy/CommentPushNotificationProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-05-Core-BeanScope/target/classes/com/cydeo/proxy/EmailCommentNotificationProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-05-Core-BeanScope/target/classes/com/cydeo/repository/CommentRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-05-Core-BeanScope/target/classes/com/cydeo/repository/DBCommentRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-05-Core-BeanScope/target/classes/com/cydeo/service/CommentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/Spring-06-SpringBoot-Demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/target/classes/com/cydeo/CydeoApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/target/classes/com/cydeo/model/Comment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/target/classes/com/cydeo/proxy/CommentNotificationProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/target/classes/com/cydeo/proxy/CommentPushNotificationProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/target/classes/com/cydeo/proxy/EmailCommentNotificationProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/target/classes/com/cydeo/repository/CommentRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/target/classes/com/cydeo/repository/DBCommentRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/target/classes/com/cydeo/service/CommentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller-1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller-1/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller-1/Spring-07-Spring-MVC-Controller-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller-1/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller-1/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller-1/target/classes/com/cydeo/Controller1Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller-1/target/classes/com/cydeo/controller/HomeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller-1/target/classes/com/cydeo/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller-1/target/classes/static/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller-1/target/classes/static/user/userinfo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller-1/target/classes/static/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/Spring-07-Spring-MVC-Controller/Spring-07-Spring-MVC-Controller.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/Spring-08-Spring-MVC-Model.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/target/classes/com/cydeo/Spring08SpringMvcModelApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/target/classes/com/cydeo/controller/CarController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/target/classes/com/cydeo/controller/MentorController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/target/classes/com/cydeo/controller/StudentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/target/classes/com/cydeo/enums/Gender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/target/classes/com/cydeo/model/Mentor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/target/classes/com/cydeo/model/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/target/classes/templates/car/car-info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/target/classes/templates/mentor/mentor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/target/classes/templates/student/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/Spring-09-Spring-Thymeleaf.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/src/main/resources/templates/fragments/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/com/cydeo/Spring09SpringThymeleafApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/com/cydeo/bootstrap/DataGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/com/cydeo/controller/MentorController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/com/cydeo/controller/StudentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/com/cydeo/model/Mentor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/com/cydeo/model/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/bootstrap-4.1.3-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/images/welcome-38249.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/static/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/templates/fragments/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/templates/mentor/mentor-confirmation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/templates/mentor/mentor-register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/templates/student/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-09-Spring-Thymeleaf/target/classes/templates/student/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/Spring10OrmTableCreationApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/bootstrap/DataGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/CreditAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/DebitAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/enums/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/repository/CarRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/resources/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/test/java/com/cydeo/Spring10OrmTableCreationApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-review-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-review-project/target/classes/com/cydeo/CydeoApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-review-project/target/classes/com/cydeo/config/EmployeeConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-review-project/target/classes/com/cydeo/model/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-review-project/target/classes/com/cydeo/repository/DBEmployeeRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-review-project/target/classes/com/cydeo/repository/EmployeeRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-review-project/target/classes/com/cydeo/repository/HoursRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-review-project/target/classes/com/cydeo/repository/OverTimeHours.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-review-project/target/classes/com/cydeo/repository/RegularHours.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-review-project/target/classes/com/cydeo/service/OvertimeSalaryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-review-project/target/classes/com/cydeo/service/SalaryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-framework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-review-IoC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-review-IoC/target/classes/bean_practice/AnotherConfigApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-review-IoC/target/classes/bean_practice/AppConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-review-IoC/target/classes/bean_practice/CydeoApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-review-IoC/target/classes/bean_practice/FullTimeEmployee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-review-IoC/target/classes/bean_practice/PartTimeEmployee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-review-IoC/target/classes/stereotype_annotations/CydeoApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-review-IoC/target/classes/stereotype_annotations/config/AppConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-review-IoC/target/classes/stereotype_annotations/model/DataStructure.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-review-IoC/target/classes/stereotype_annotations/model/DevOps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-review-IoC/target/classes/stereotype_annotations/model/ExtraHours.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-review-IoC/target/classes/stereotype_annotations/model/MicroServices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/repository/CarRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/repository/CarRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -592,7 +310,8 @@
       <workItem from="1696430849874" duration="270000" />
       <workItem from="1697798480682" duration="4441000" />
       <workItem from="1698231410601" duration="1058000" />
-      <workItem from="1698317256332" duration="3201000" />
+      <workItem from="1698317256332" duration="4372000" />
+      <workItem from="1698522829561" duration="2270000" />
     </task>
     <task id="LOCAL-00001" summary="demo module added">
       <created>1693505594370</created>
@@ -818,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696384977094</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="ORM Part 1">
+      <created>1698404085383</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1698404085383</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -836,7 +562,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor" />
     <MESSAGE value="refactor name" />
     <MESSAGE value="Spring Core IoC" />
     <MESSAGE value="Stereotype Annotation" />
@@ -861,6 +586,7 @@
     <MESSAGE value="Thymeleaf" />
     <MESSAGE value="static package" />
     <MESSAGE value="Spring Thymeleaf" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring Thymeleaf" />
+    <MESSAGE value="ORM Part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ORM Part 1" />
   </component>
 </project>
