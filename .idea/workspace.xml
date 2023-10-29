@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173fadd-3522-460a-9292-170966d50852" name="Changes" comment="ORM Part 1">
+    <list default="true" id="6173fadd-3522-460a-9292-170966d50852" name="Changes" comment="ORM Part 1 continue">
+      <change afterPath="$PROJECT_DIR$/Spring-11-ORM-Mappimg-OneToOne/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-11-ORM-Mappimg-OneToOne/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-11-ORM-Mappimg-OneToOne/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-11-ORM-Mappimg-OneToOne/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-11-ORM-Mappimg-OneToOne/src/main/java/com/cydeo/Spring11OrmMappimgOneToOneApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-11-ORM-Mappimg-OneToOne/src/main/java/com/cydeo/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-11-ORM-Mappimg-OneToOne/src/main/java/com/cydeo/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-11-ORM-Mappimg-OneToOne/src/main/java/com/cydeo/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-11-ORM-Mappimg-OneToOne/src/main/java/com/cydeo/enums/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-11-ORM-Mappimg-OneToOne/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-11-ORM-Mappimg-OneToOne/src/test/java/com/cydeo/Spring11OrmMappimgOneToOneApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/repository/CarRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/repository/CarRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +30,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -268,6 +279,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Spring11OrmMappimgOneToOneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-11-ORM-Mappimg-OneToOne" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.Spring11OrmMappimgOneToOneApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.CydeoApp (1)" />
@@ -311,7 +329,7 @@
       <workItem from="1697798480682" duration="4441000" />
       <workItem from="1698231410601" duration="1058000" />
       <workItem from="1698317256332" duration="4372000" />
-      <workItem from="1698522829561" duration="2270000" />
+      <workItem from="1698522829561" duration="4720000" />
     </task>
     <task id="LOCAL-00001" summary="demo module added">
       <created>1693505594370</created>
@@ -544,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698404085383</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="ORM Part 1 continue">
+      <created>1698601485496</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1698601485496</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +587,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor name" />
     <MESSAGE value="Spring Core IoC" />
     <MESSAGE value="Stereotype Annotation" />
     <MESSAGE value="Wiring" />
@@ -587,6 +611,7 @@
     <MESSAGE value="static package" />
     <MESSAGE value="Spring Thymeleaf" />
     <MESSAGE value="ORM Part 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ORM Part 1" />
+    <MESSAGE value="ORM Part 1 continue" />
+    <option name="LAST_COMMIT_MESSAGE" value="ORM Part 1 continue" />
   </component>
 </project>
