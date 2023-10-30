@@ -20,6 +20,6 @@ public class Cart {
     @JoinTable(name = "car_item_rel",
             joinColumns = @JoinColumn(name="c_id"),
             inverseJoinColumns = @JoinColumn(name = "i_id"))
-    private List<Item> itemList;
+    private List<Item> itemList; //set has an advantage with manyToMany
 
 }

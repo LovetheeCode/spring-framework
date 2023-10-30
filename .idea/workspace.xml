@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173fadd-3522-460a-9292-170966d50852" name="Changes" comment="ORM Part 2">
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/Spring12OrmOneToManyManyToManyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/bootstrap/DataGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/enums/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/model/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/model/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/model/Merchant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/model/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/model/PaymentDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/repository/CartRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/repository/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/repository/ItemRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/repository/MerchantRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/repository/PaymentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/test/java/com/cydeo/Spring12OrmOneToManyManyToManyApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6173fadd-3522-460a-9292-170966d50852" name="Changes" comment="OneToOne, OneToMany">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/model/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/model/Cart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -345,7 +323,7 @@
       <workItem from="1697798480682" duration="4441000" />
       <workItem from="1698231410601" duration="1058000" />
       <workItem from="1698317256332" duration="4372000" />
-      <workItem from="1698522829561" duration="13550000" />
+      <workItem from="1698522829561" duration="15351000" />
     </task>
     <task id="LOCAL-00001" summary="demo module added">
       <created>1693505594370</created>
@@ -599,7 +577,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698622721290</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="OneToOne, OneToMany">
+      <created>1698626452340</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1698626452340</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -617,7 +602,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Stereotype Annotation" />
     <MESSAGE value="Wiring" />
     <MESSAGE value="Dependency Injection" />
     <MESSAGE value="Abstraction" />
@@ -642,6 +626,7 @@
     <MESSAGE value="ORM Part 1" />
     <MESSAGE value="ORM Part 1 continue" />
     <MESSAGE value="ORM Part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ORM Part 2" />
+    <MESSAGE value="OneToOne, OneToMany" />
+    <option name="LAST_COMMIT_MESSAGE" value="OneToOne, OneToMany" />
   </component>
 </project>
