@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6173fadd-3522-460a-9292-170966d50852" name="Changes" comment="OneToOne, OneToMany">
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/Spring13OrmCinemaLabApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/entity/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/test/java/com/cydeo/Spring13OrmCinemaLabApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/model/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/model/Cart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,6 +291,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Spring13OrmCinemaLabApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-13-ORM-CinemaLab" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.Spring13OrmCinemaLabApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.CydeoApp (1)" />
@@ -323,7 +341,7 @@
       <workItem from="1697798480682" duration="4441000" />
       <workItem from="1698231410601" duration="1058000" />
       <workItem from="1698317256332" duration="4372000" />
-      <workItem from="1698522829561" duration="15351000" />
+      <workItem from="1698522829561" duration="17085000" />
     </task>
     <task id="LOCAL-00001" summary="demo module added">
       <created>1693505594370</created>
@@ -584,7 +602,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698626452340</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="OneToOne, OneToMany">
+      <created>1698708166440</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1698708166440</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
