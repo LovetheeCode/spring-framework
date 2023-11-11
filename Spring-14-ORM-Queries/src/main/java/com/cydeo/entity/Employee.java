@@ -3,16 +3,15 @@ package com.cydeo.entity;
 import com.cydeo.enums.Gender;
 import jakarta.persistence.*;
 import lombok.Data;
-import lombok.Getter;
+
 import lombok.NoArgsConstructor;
-import lombok.Setter;
+
 
 import java.time.LocalDate;
 
 @Entity
 @Table(name="employees")
-@Getter
-@Setter
+@Data
 @NoArgsConstructor
 public class Employee extends BaseEntity{
 

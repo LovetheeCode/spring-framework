@@ -8,7 +8,7 @@ import java.util.List;
 public interface RegionRepository extends JpaRepository<Region,Long> {
 
     //Display all regions in Canada
-    List<Region> findByCountry(String country);
+    List<Region> findByCountry(String country); // select * from Region where country is "bla bla"
 
     //Display all regions in Canada, without duplicates
     List<Region> findDistinctByCountry(String country);

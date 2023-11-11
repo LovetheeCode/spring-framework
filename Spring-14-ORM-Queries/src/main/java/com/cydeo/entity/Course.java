@@ -2,15 +2,14 @@ package com.cydeo.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
-import lombok.Getter;
+
 import lombok.NoArgsConstructor;
-import lombok.Setter;
+
 
 @Entity
 @Table(name = "COURSES")
 @NoArgsConstructor
-@Getter
-@Setter
+@Data
 public class Course {
 
     @Id
