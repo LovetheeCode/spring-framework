@@ -2,18 +2,22 @@ package com.cydeo.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
+
 import jakarta.persistence.Table;
 import lombok.Data;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
+
 
 @Entity
-@Table(name="departments")
-@Data
+@Table(name = "departments")
+@Getter
+@Setter
 @NoArgsConstructor
 public class Department {
 
-
     @Id
-    private String department; //PK
+    private String department;
     private String division;
 }
