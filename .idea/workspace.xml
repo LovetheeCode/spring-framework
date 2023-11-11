@@ -4,20 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6173fadd-3522-460a-9292-170966d50852" name="Changes" comment="OneToOne, OneToMany">
-      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/Spring13OrmCinemaLabApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/entity/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/test/java/com/cydeo/Spring13OrmCinemaLabApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6173fadd-3522-460a-9292-170966d50852" name="Changes" comment="CinemaLab part1">
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/entity/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/entity/Cinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/entity/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/entity/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/entity/MovieCinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/entity/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/resources/db/migration/V1.0.1__insertdata.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/resources/db/migration/V1.0.2__updatedata.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/repository/PaymentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyToMany/src/main/java/com/cydeo/repository/PaymentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/Spring13OrmCinemaLabApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/Spring13OrmCinemaLabApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/entity/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/java/com/cydeo/entity/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,36 +78,41 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/galka/IdeaProjects/spring-framework/Spring-06-SpringBoot-Demo/src/main/java/com/cydeo/service&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;3061aaf758441c8ec52472a6a7e479d9&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "C:/Users/galka/IdeaProjects/spring-framework/Spring-06-SpringBoot-Demo/src/main/java/com/cydeo/service",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "4150407e221d9d4f65349ae3f5921886"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect": [
+      "PostgreSQL"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cydeo.enums" />
+      <recent name="com.cydeo.entity" />
       <recent name="com.cydeo.model" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -129,7 +135,7 @@
       <recent name="com.cydeo.config" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Spring12OrmOneToManyManyToManyApplication">
+  <component name="RunManager" selected="Spring Boot.Spring13OrmCinemaLabApplication">
     <configuration name="CydeoApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.CydeoApp" />
       <module name="Spring-review-project" />
@@ -341,7 +347,9 @@
       <workItem from="1697798480682" duration="4441000" />
       <workItem from="1698231410601" duration="1058000" />
       <workItem from="1698317256332" duration="4372000" />
-      <workItem from="1698522829561" duration="17085000" />
+      <workItem from="1698522829561" duration="21593000" />
+      <workItem from="1698873015731" duration="58000" />
+      <workItem from="1699107697779" duration="6327000" />
     </task>
     <task id="LOCAL-00001" summary="demo module added">
       <created>1693505594370</created>
@@ -609,7 +617,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698708166440</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="CinemaLab part1">
+      <created>1698709459873</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1698709459873</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -627,7 +642,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Wiring" />
     <MESSAGE value="Dependency Injection" />
     <MESSAGE value="Abstraction" />
     <MESSAGE value="Bean Scope" />
@@ -652,6 +666,7 @@
     <MESSAGE value="ORM Part 1 continue" />
     <MESSAGE value="ORM Part 2" />
     <MESSAGE value="OneToOne, OneToMany" />
-    <option name="LAST_COMMIT_MESSAGE" value="OneToOne, OneToMany" />
+    <MESSAGE value="CinemaLab part1" />
+    <option name="LAST_COMMIT_MESSAGE" value="CinemaLab part1" />
   </component>
 </project>
